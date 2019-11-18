@@ -2,3 +2,5 @@ all about me.
 I like c#.
 and javascript.
 My fav color is blue.
+
+Copy right Brandt Apps.
