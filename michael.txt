@@ -1,6 +1,10 @@
 all about me.
 I like c#.
 and javascript.
+<<<<<<< HEAD
 My fav color is purple.
+=======
+My fav color is redddd.
+>>>>>>> red
 
 Copy right Brandt Apps.
