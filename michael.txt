@@ -1,6 +1,6 @@
 all about me.
 I like c#.
 and javascript.
-My fav color is yellow.
+My fav color is purple.
 
 Copy right Brandt Apps.
